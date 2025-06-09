@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-westeurope
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: d8debdd2-8a9d-4298-960c-3b27cd410d1b
-  WEBAPP-NAME: devops-webapp-westeurope-88
+  SUBSCRIPTION-ID: 8f167044-f5d2-49ad-b8c9-2036d0e3cb9f
+  WEBAPP-NAME: devops-webapp-westeurope-888
 
 
 jobs:
